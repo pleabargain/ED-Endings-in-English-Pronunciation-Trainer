@@ -1,0 +1,7 @@
+{
+  "name": "ED-Master: English Pronunciation Pro",
+  "description": "Master the three sounds of the '-ed' ending in English (/t/, /d/, and /ɪd/) through interactive testing and AI-powered audio feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
